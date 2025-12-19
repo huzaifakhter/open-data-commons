@@ -8,11 +8,11 @@ The dataset is provided in CSV format and includes high-level classification for
 
 ### Column Meanings
 
-- `brand`: The manufacturer of the vehicle (e.g., toyota, tesla).
-- `model`: The specific line of vehicle (e.g., corolla, model 3).
-- `variant1`: Primary body style or classification (e.g., sedan, suv, truck).
-- `variant2`: Powertrain type (e.g., gas, hybrid, electric).
-- `variant3`: Trim level or specific sub-model (e.g., xle, performance, lightning).
+- `brand`: The manufacturer of the vehicle (e.g., maruti).
+- `model`: The specific line of vehicle (e.g., alto).
+- `variant1`: Variant of the vehicle (e.g., k10).
+- `variant2`: Variant of the vehicle (e.g., lxi).
+- `variant3`: Variant of the vehicle (e.g., manual).
 
 ## Data Processing
 
@@ -22,11 +22,10 @@ The dataset is provided in CSV format and includes high-level classification for
 
 ## Example Rows
 
-| brand | model | variant1 | variant2 | variant3 |
-|-------|-------|----------|----------|----------|
-| toyota | corolla | sedan | hybrid | le |
-| ford | f-150 | truck | electric | lightning |
-| tesla | model s | sedan | electric | plaid |
+| brand  | model | variant1 | variant2 | variant3 |
+|--------|-------|----------|----------|----------|
+| maruti | alto  | k10      | lxi      | manual   |
+
 
 ## Use Cases
 
