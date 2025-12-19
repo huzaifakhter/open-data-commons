@@ -35,4 +35,4 @@ The dataset is provided in CSV format and includes high-level classification for
 
 ## License
 
-This dataset is released under **CC0 1.0 Universal**. It is part of the [Open Data Commons](open-data-commons/README.md) project.
+This dataset is released under **CC0 1.0 Universal**. It is part of the [Open Data Commons](../README.md) project.
